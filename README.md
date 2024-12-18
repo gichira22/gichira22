@@ -1,4 +1,4 @@
-![Sunset Haven](/client/public/images/sunset.jpeg)
+<!-- ![Sunset Haven](/client/public/images/sunset.jpeg) -->
 
 # Sunset Haven 
 
