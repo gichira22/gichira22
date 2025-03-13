@@ -64,10 +64,8 @@
 ### **🔍 Penetration Testing Lab**
 - Built a **Kali Linux** lab for security testing and ethical hacking.
 - Used **Nmap, Metasploit, and Wireshark** to simulate attacks.
-- Documented security vulnerabilities and solutions.
 
 ### **🔐 Secure Authentication System**
-- Developed a **multi-factor authentication (MFA)** system for a web application.
 - Implemented **JWT, OAuth2 authentication**.
 - Enhanced **API security** using best practices.
 
